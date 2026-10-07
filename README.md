@@ -1,1 +1,1 @@
-[joomla](https://github.com/Vellinhellin/DockerCompose/blob/main/joomla.md)
+[joomla](https://github.com/Vellinhellin/DockCompose/blob/main/joomla.md)

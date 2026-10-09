@@ -13,3 +13,5 @@
 [LibreDB_Studio](https://github.com/Vellinhellin/DockCompose/blob/main/LibreDB_Studio.md)
 
 [Homehub](https://github.com/Vellinhellin/DockCompose/blob/main/Homehub.md)
+
+[CloudBeaver](https://github.com/Vellinhellin/DockCompose/blob/main/CloudBeaver.md)

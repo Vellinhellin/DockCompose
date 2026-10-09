@@ -9,3 +9,5 @@
 [PostgreSQL_pgAdmin](https://github.com/Vellinhellin/DockCompose/blob/main/PostgreSQL_pgAdmin.md)
 
 [drawDB](https://github.com/Vellinhellin/DockCompose/blob/main/drawDB.md)
+
+[LibreDB_Studio](https://github.com/Vellinhellin/DockCompose/blob/main/LibreDB_Studio.md)

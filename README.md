@@ -4,4 +4,4 @@
 
 [mySQLphpMyAdmin](https://github.com/Vellinhellin/DockCompose/blob/main/mySQLphpMyAdmin.md)
 
-[PostgresSQL.md](https://github.com/Vellinhellin/DockCompose/blob/main/PostgresSQL.md)
+[PostgresSQL](https://github.com/Vellinhellin/DockCompose/blob/main/PostgresSQL.md)
